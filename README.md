@@ -4,8 +4,13 @@
 FEATURES :
 
   Real-Time Messaging
+  
   Group Chat Support
+  
   User Authentication via Firebase
+  
   Customizable User Profiles
+  
   Message Status Indicators(Sent,Delivered,Seen)
+  
   Push Notifications
