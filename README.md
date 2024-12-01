@@ -10,10 +10,16 @@ FEATURES :
 -
 
   Real-Time Messaging ,
+  
   Group Chat Support ,
+  
   User Authentication via Firebase ,
+  
   Customizable User Profiles ,
+  
   Message Status Indicators(Sent,Delivered,Seen) ,
+  
   Navigation and UI Elements ,
+  
   Settings - Theams .
   
