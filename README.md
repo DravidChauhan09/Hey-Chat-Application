@@ -2,6 +2,7 @@
   Hey is set to revolutionize the way people connectand interact.
 
 FEATURES :
+
   Real-Time Messaging
   Group Chat Support
   User Authentication via Firebase
